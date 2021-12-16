@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "dynamic-dns": "apps/dynamic-dns"
+  }
+}
